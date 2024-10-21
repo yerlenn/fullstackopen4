@@ -1,0 +1,9 @@
+PUT http://localhost:3003/api/blogs/6710db4ea1dbfb64849a7575
+Content-Type: application/json
+
+{
+    "title": "Best kdramas 2023",
+    "author": "DoramaTV",
+    "url": "twitter.com/dorama",
+    "likes": 20
+}
